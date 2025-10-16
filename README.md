@@ -1,2 +1,3 @@
 # tahiriqbal-activity
-This is my first git repository
+This is my first git repository.
+Developer:Tahir Mehar
